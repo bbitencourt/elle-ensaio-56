@@ -5,12 +5,6 @@ import { Quote } from './Quote';
 import { Gallery } from './Gallery';
 import { Question } from './Question';
 import { Footer } from './Footer';
-import {
-  Carousel,
-  CarouselContent,
-  CarouselItem,
-} from '@/components/ui/carousel';
-import { v4 as uuidv4 } from 'uuid';
 
 export const Main: React.FC = () => {
   return (
@@ -33,7 +27,7 @@ export const Main: React.FC = () => {
           Miami, Flórida. É na cidade em que irá nascer Zuri, sua primeira filha
           com a bailarina Brunna Gonçalves. Foi lá também onde o{' '}
           <em>Numanice</em> fez sua estreia em solos estadunidenses, cerca de um
-          mês atrás. 
+          mês atrás.
         </p>
         <p
           className="wow animate__animated animate__fadeIn"
