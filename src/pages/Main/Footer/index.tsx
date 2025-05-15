@@ -23,39 +23,23 @@ export const Footer: React.FC = () => {
             </h6>
             <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
               <span className="font-IBMPlexSansRegular block mb-2">
-                Beleza:
-              </span>
-              <span className="uppercase">Quézia Lino</span>
-            </h6>
-            <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
-              <span className="font-IBMPlexSansRegular block mb-2">
-                Nails art:
-              </span>
-              <span className="uppercase">Thayná Dandara</span>
-            </h6>
-          </div>
-          <div className="flex flex-col gap-8">
-            <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
-              <span className="font-IBMPlexSansRegular block mb-2">Hair:</span>
-              <span className="uppercase">Steffone</span>
-            </h6>
-            <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
-              <span className="font-IBMPlexSansRegular block mb-2">Vídeo:</span>
-              <span className="uppercase">Fabricio Barreto</span>
-            </h6>
-            <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
-              <span className="font-IBMPlexSansRegular block mb-2">
                 Coordenação de moda:
               </span>
               <span className="uppercase">Diego Tofolo</span>
             </h6>
-          </div>
-          <div className="flex flex-col gap-8">
             <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
               <span className="font-IBMPlexSansRegular block mb-2">
                 Produção de moda:
               </span>
               <span className="uppercase">Thiago Torres</span>
+            </h6>
+          </div>
+          <div className="flex flex-col gap-8">
+            <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
+              <span className="font-IBMPlexSansRegular block mb-2">
+                Produção de arte:
+              </span>
+              <span className="uppercase">Cassio Onohara</span>
             </h6>
             <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
               <span className="font-IBMPlexSansRegular block mb-2">
@@ -69,27 +53,58 @@ export const Footer: React.FC = () => {
               </span>
               <span className="uppercase">Philipe Mortosa</span>
             </h6>
+            <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
+              <span className="font-IBMPlexSansRegular block mb-2">
+                Assistentes de foto:
+              </span>
+              <span className="uppercase">
+                Fábio Enes, Sidão e <br />
+                Thiago Lima
+              </span>
+            </h6>
           </div>
           <div className="flex flex-col gap-8">
             <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
+              <span className="font-IBMPlexSansRegular block mb-2">Vídeo:</span>
+              <span className="uppercase">Letícia Souza</span>
+            </h6>
+            <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
               <span className="font-IBMPlexSansRegular block mb-2">
-                Assistente de foto:
+                Gaffer:
               </span>
-              <span className="uppercase">Ethel Braga</span>
+              <span className="uppercase">Letícia Rodrigues</span>
             </h6>
             <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
               <span className="font-IBMPlexSansRegular block mb-2">
                 Assistentes de vídeo:
               </span>
-              <span className="uppercase">
-                Caio Humb, Rafael Roberto <br />e Erick Diniz
-              </span>
+              <span className="uppercase">Renata Monteiro</span>
             </h6>
             <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
               <span className="font-IBMPlexSansRegular block mb-2">
                 Assistente de produção executiva:
               </span>
               <span className="uppercase">Ronaldo Junge</span>
+            </h6>
+          </div>
+          <div className="flex flex-col gap-8">
+            <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
+              <span className="font-IBMPlexSansRegular block mb-2">
+                Nails art:
+              </span>
+              <span className="uppercase">Thayna Dandara</span>
+            </h6>
+            <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
+              <span className="font-IBMPlexSansRegular block mb-2">
+                Layout:
+              </span>
+              <span className="uppercase">Felipe Prado</span>
+            </h6>
+            <h6 className="font-ElleGaborStdDemiBold text-base leading-5">
+              <span className="font-IBMPlexSansRegular block mb-2">
+                Programação:
+              </span>
+              <span className="uppercase">Bruno Bitencourt</span>
             </h6>
           </div>
         </section>

@@ -69,12 +69,12 @@ export const Main: React.FC = () => {
           {
             src: './images/1.jpg',
             subtitle:
-              'Casaco, Z.Vitor. Óculos, Jacquemus para Protus Group. Brincos, Hector Albertazzi. Meia calça, Calzedonia. Sapatos, Vicenza.',
+              'Casaco, Z.Vitor. Óculos, Jacquemus (à venda na Protus Group). Brincos, Hector Albertazzi. Meia-calça, Calzedonia. Sapatos, Vicenza.',
           },
           {
             src: './images/2.jpg',
             subtitle:
-              'Casaco, Herchcovitch;Alexandre. Blusa, Intimissimi. Brincos, Hector Albertazzi.',
+              'Casaco, Herchcovitch, Alexandre. Blusa Intimissimi. Brincos, Hector Albertazzi.',
           },
         ]}
       />
@@ -132,7 +132,7 @@ export const Main: React.FC = () => {
           {
             src: './images/3.jpg',
             subtitle:
-              'Casaco, Stella McCartney à venda na CJ Mares. Brincos, Hector Albertazzi. Meia calça, Calzedonia. Botas, Celine (acervo ELLE).',
+              'Casaco, Stella McCartney (à venda na CJ Mares). Brincos, Hector Albertazzi. Meia-calça, Calzedonia. Botas, Celine (acervo ELLE).',
           },
         ]}
       />
@@ -156,12 +156,12 @@ export const Main: React.FC = () => {
           {
             src: './images/4.jpg',
             subtitle:
-              'Casaco, Vitor Zerbinato. Brincos, Hector Albertazzi. Meia calça, Calzedonia.',
+              'Casaco, Vitor Zerbinato. Brincos, Hector Albertazzi. Meia-calça, Calzedonia.',
           },
           {
             src: './images/5.jpg',
             subtitle:
-              'Casaco, Herchcovitch;Alexandre. Blusa, e hot pant, Intimissimi. Brincos, Hector Albertazzi. Meia calça, Selene à venda na Riachuelo. Meias, Calzedonia. Sapatos, Alexandre Birman.',
+              'Casaco, Herchcovitch, Alexandre. Blusa e hotpants, ambas Intimissimi. Brincos, Hector Albertazzi. Meia-calça, Selene (à venda na Riachuelo). Meias, Calzedonia. Sapatos, Alexandre Birman.',
           },
         ]}
       />
@@ -185,7 +185,7 @@ export const Main: React.FC = () => {
           {
             src: './images/6.jpg',
             subtitle:
-              'Casaco, Z.Vitor. Óculos, Jacquemus para Protus Group. Brincos, Hector Albertazzi. Meia calça, Calzedonia. Sapatos, Vicenza.',
+              'Casaco, Z.Vitor. Óculos, Jacquemus (à venda na Protus Group). Brincos, Hector Albertazzi. Meia-calça, Calzedonia. Sapatos, Vicenza.',
           },
         ]}
       />
@@ -209,16 +209,13 @@ export const Main: React.FC = () => {
         />
       </Content>
       <Gallery
+        subtitle="Casaco, Vitor Zerbinato. Brincos, Hector Albertazzi. Meia-calça, Calzedonia. Botas, Celine (acervo ELLE)."
         images={[
           {
             src: './images/7.jpg',
-            subtitle:
-              'Casaco, Vitor Zerbinato. Brincos, Hector Albertazzi. Meia calça, Calzedonia. Botas, Celine (acervo ELLE).',
           },
           {
             src: './images/8.jpg',
-            subtitle:
-              'Casaco, Herchcovitch;Alexandre. Blusa, Intimissimi. Brincos, Hector Albertazzi.',
           },
         ]}
       />

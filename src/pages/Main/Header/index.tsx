@@ -19,10 +19,12 @@ export const Header: React.FC = () => {
             ao falar de fé e das mulheres de sua vida, Brunna e Zuri.
           </p>
         </article>
-        <div className="w-full max-w-[450px] uppercase font-IBMPlexSansMedium text-[15px] pt-4 border-t border-white">
-          Fotos: Ivan Erick <br />
-          Edição de moda: Lucas Boccalão <br />
-          e Suyane Ynaya <br />
+        <div className="w-full max-w-[450px] font-IBMPlexSansMedium text-[13px] pt-4 border-t border-white">
+          Foto: Ivan Erick <br />
+          Direção de moda: Lucas Boccalão <br />
+          Edição de moda: Suyane Ynaya <br />
+          Direção de arte cenográfica: Anderson Rodriguez <br />
+          Beleza: Daniel Hernandez <br />
           Texto: Lelê Santhana
         </div>
       </div>
