@@ -13,7 +13,7 @@ export const Gallery: React.FC<GalleryProps> = ({ images, className }) => {
   return (
     <section
       className={cn(
-        'w-full max-auto max-w-[1920px] px-0 md:px-12 flex flex-col md:flex-row gap-2',
+        'w-full max-auto max-w-[1920px] px-0 md:px-12 flex flex-col md:flex-row gap-8 md:gap-2',
         className
       )}
     >

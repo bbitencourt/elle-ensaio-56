@@ -12,7 +12,7 @@ export const Main: React.FC = () => {
       <Header />
       <Content>
         <h3
-          className="font-IBMPlexSansMedium text-[22px] mb-8 md:mb-10 wow animate__animated animate__fadeIn"
+          className="font-IBMPlexSansMedium text-[22px] leading-7 mb-8 md:mb-10 wow animate__animated animate__fadeIn"
           data-wow-duration="1s"
         >
           “Ludmila Oliveira deseja ingressar na reunião”, notifica o Google
@@ -138,7 +138,6 @@ export const Main: React.FC = () => {
       />
       <Content>
         <Question
-          className="mb-0 md:mb-0"
           question={`Depois de cantar funk, pop, samba e pagode, você está prestes a lançar um álbum de R&B. Por que a escolha por esse gênero? `}
           answer={`<p>Eu gosto de falar de sentimento de várias maneiras, com várias sonoridades. E esse álbum permite isso. Fui para os Estados Unidos beber da fonte do R&amp;B, trabalhar com produtores que já gravaram grandes nomes. E eu sou uma performer. Na hora de fazer as músicas, penso muito no ao vivo. As melodias do R&amp;B vão ser fodas no show. A gente vai criar uma puta de uma coreografia. Então, era uma vontade que estava dentro do meu coração há muito tempo.</p>`}
         />
