@@ -234,8 +234,8 @@ export const Main: React.FC = () => {
         />
         <Question
           className="mb-0 md:mb-0"
-          question={`O nascimento de sua primeira filha está logo aí. Como você e Brunna têm pensado a maternidade?`}
-          answer={`<p>Eu não paro de pensar nisso! Zuri é o maior presente, a maior coisa que já aconteceu na minha vida. É o tempo todo imaginando como vai ser criar, como ela vai ser, como eu vou me sair como mãe de primeira viagem. A gente pesquisa sobre o assunto, lê livro, conversa com mães, ouve os relatos... Mas cada um tem sua experiência, né? E a gente quer ter a nossa. Estamos muito preparadas. A Bru é uma mulher incrível. Eu não poderia ter escolhido outra parceira para gerar o meu maior presente da vida.</p>`}
+          question={`Sua primeira filha acaba de nascer. Como você e a Brunna têm pensado a maternidade?`}
+          answer={`<p>Eu não paro de pensar nisso! Zuri é o maior presente, a maior coisa que já aconteceu na minha vida. É o tempo todo imaginando como vai ser criar e como eu vou me sair como mãe de primeira viagem. A gente pesquisa sobre o assunto, lê livro, conversa com mães, ouve os relatos... Mas cada um tem sua experiência, né? E a gente quer ter a nossa. Estamos muito preparadas. A Bru é uma mulher incrível. Eu não poderia ter escolhido outra parceira para gerar o meu maior presente da vida.</p>`}
         />
       </Content>
       <Gallery
