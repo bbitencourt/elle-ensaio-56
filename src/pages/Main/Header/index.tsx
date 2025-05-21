@@ -28,9 +28,19 @@ export const Header: React.FC = () => {
           Texto: Lelê Santhana
         </div>
       </div>
-      <video className="w-full md:w-auto md:h-full" controls>
+      <video className="hidden md:block w-full md:w-auto md:h-full" controls>
         <source
-          src="https://player.vimeo.com/progressive_redirect/download/1077626624/rendition/1440p/elle_view_abril_25_-_clara_moneke_%7C_mobile%20%281440p%29.mp4?loc=external&signature=5a9d10a383fb8b4715770c32ea7e2529f18a2745594aaea3b2ccfacc1b1aa522&user_id=116680071"
+          src="https://player.vimeo.com/progressive_redirect/download/1086411054/rendition/1080p/ludmilla_%7C_elle_view_maio_2025%20%281080p%29.mp4?loc=external&signature=fbdf3bea3a6fa3c1bdd546900fa731fd3c1505e7a57fb7374b8389df66e3f776&user_id=116680071"
+          type="video/mp4"
+        />
+      </video>
+      <video
+        className="block md:hidden w-full md:w-auto md:h-full"
+        controls
+        poster="./images/cover.png"
+      >
+        <source
+          src="https://player.vimeo.com/progressive_redirect/download/1086411054/rendition/1080p/ludmilla_%7C_elle_view_maio_2025%20%281080p%29.mp4?loc=external&signature=fbdf3bea3a6fa3c1bdd546900fa731fd3c1505e7a57fb7374b8389df66e3f776&user_id=116680071"
           type="video/mp4"
         />
       </video>
